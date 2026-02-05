@@ -26,6 +26,8 @@
 
 - **[Length of Last Word] (https://leetcode.com/problems/length-of-last-word/submissions/1908091253/?envType=problem-list-v2&envId=w2wx7l5v)**
 
+- **[Remove Duplicates from Sorted Lists] (https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/1908565455/?envType=problem-list-v2&envId=w2wx7l5v)**
+
 - **[Plus One] (https://leetcode.com/problems/plus-one/submissions/1908094334/?envType=problem-list-v2&envId=w2wx7l5v)**
 
 - **[Add Binary] (https://leetcode.com/problems/add-binary/submissions/1908098276/?envType=problem-list-v2&envId=w2wx7l5v)**
