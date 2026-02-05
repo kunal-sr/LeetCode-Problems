@@ -22,6 +22,8 @@
 
 - **[Search Insert Position] (https://leetcode.com/problems/search-insert-position/submissions/1908086716/?envType=problem-list-v2&envId=w2wx7l5v)**
 
+- **[Sqrt(x)] (https://leetcode.com/problems/sqrtx/submissions/1908556675/?envType=problem-list-v2&envId=w2wx7l5v)**
+
 - **[Length of Last Word] (https://leetcode.com/problems/length-of-last-word/submissions/1908091253/?envType=problem-list-v2&envId=w2wx7l5v)**
 
 - **[Plus One] (https://leetcode.com/problems/plus-one/submissions/1908094334/?envType=problem-list-v2&envId=w2wx7l5v)**
