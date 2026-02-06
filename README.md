@@ -20,6 +20,10 @@
 
 - **[Find the Index of the First Occurrence in a String] (https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/1908084649/?envType=problem-list-v2&envId=w2wx7l5v)**
 
+- **[Merge Sorted Array] (https://leetcode.com/problems/merge-sorted-array/submissions/1909696283/?envType=problem-list-v2&envId=w2wx7l5v)**
+
+- **[Binary tree Inorder Traversal] (https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1909698907/?envType=problem-list-v2&envId=w2wx7l5v)**
+
 - **[Search Insert Position] (https://leetcode.com/problems/search-insert-position/submissions/1908086716/?envType=problem-list-v2&envId=w2wx7l5v)**
 
 - **[Sqrt(x)] (https://leetcode.com/problems/sqrtx/submissions/1908556675/?envType=problem-list-v2&envId=w2wx7l5v)**
@@ -33,3 +37,5 @@
 - **[Add Binary] (https://leetcode.com/problems/add-binary/submissions/1908098276/?envType=problem-list-v2&envId=w2wx7l5v)**
 
 - **[Climbing Stairs] (https://leetcode.com/problems/climbing-stairs/submissions/1908562678/?envType=problem-list-v2&envId=w2wx7l5v)**
+
+- **[Same Tree] (https://leetcode.com/problems/same-tree/submissions/1909700266/?envType=problem-list-v2&envId=w2wx7l5v)**
