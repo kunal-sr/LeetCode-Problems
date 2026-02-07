@@ -38,6 +38,8 @@
 
 - **[Add Binary] (https://leetcode.com/problems/add-binary/submissions/1908098276/?envType=problem-list-v2&envId=w2wx7l5v)**
 
+- **[Pascal's Triangle] (https://leetcode.com/problems/pascals-triangle/submissions/1910807323/?envType=problem-list-v2&envId=w2wx7l5v)**
+
 - **[Climbing Stairs] (https://leetcode.com/problems/climbing-stairs/submissions/1908562678/?envType=problem-list-v2&envId=w2wx7l5v)**
 
 - **[Same Tree] (https://leetcode.com/problems/same-tree/submissions/1909700266/?envType=problem-list-v2&envId=w2wx7l5v)**
