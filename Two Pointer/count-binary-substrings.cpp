@@ -1,0 +1,34 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+class Solution {
+public:
+    int countBinarySubstrings(string s) {
+        int prev = 0, curr = 1;
+        int result = 0;
+
+        for (int i = 1; i < s.size(); i++) {
+            if (s[i] == s[i - 1]) {
+                curr++;
+            } else {
+                result += min(prev, curr);
+                prev = curr;
+                curr = 1;
+            }
+        }
+
+        result += min(prev, curr);
+
+        return result;
+    }
+};
+
+int main() {
+    Solution sol;
+
+    string s = "00110011";
+
+    cout << sol.countBinarySubstrings(s) << endl;
+
+    return 0;
+}
